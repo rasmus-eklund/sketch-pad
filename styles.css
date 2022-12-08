@@ -1,0 +1,15 @@
+body {
+    background-color: gray;
+}
+.container {
+    display: flex;
+}
+.box {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+}
+
+.box.marked {
+    background-color: black;
+}
